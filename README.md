@@ -1,20 +1,26 @@
-# communication_project
-time 2024.01~2024.12
+# 大學部通訊專題實作
+[notion view](https://cottony-chartreuse-018.notion.site/e780093a104545f79cdbeee89d52b51d)
 
-instructor: Chao Kai, Wen
+**Instructor**：溫朝凱 教授
 
-team member: 
-1. Fan Hao, Lin
+**Team Members**：陳胤琟、林凡皓、劉彥頊、洪漢霖
 
-**2. Han Lin, Hong**
+**Topic**：Geo2SigMap Implementation
 
-3. Yin Wei, Chen
-4. Yan Xu, Liu
+## Progress
 
-https://github.com/functions-lab/geo2sigmap
-@article{li2023geo2sigmap,
-  title = {{Geo2SigMap}: High-Fidelity {RF} Signal Mapping Using Geographic Databases},
-  author = {Li, Yiming and Li, Zeyu and Gao, Zhihui and Chen, Tingjun},
-  journal={arXiv:2312.14303},
-  year={2023}
-}
+### 02_Running the Flow
+
+🧭 [GitHub connection](https://github.com/functions-lab/geo2sigmap)
+
+- [ ]  Sionna
+- [x]  Blender in windows with add-on “Blosm”
+- [ ]  There’re some bug when installing “Mitsuba”, a rendering add-on
+- [ ]  Docker may not work
+- [ ]  WSL or Ubuntu has path error warning
+
+### 01_Reading Reference Paper
+
+📑 Li et al. - 2023 - Geo2SigMap High-Fidelity RF Signal Mapping Using Geographic Databases
+
+- [x]  brief performance
