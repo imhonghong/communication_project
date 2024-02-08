@@ -1,5 +1,6 @@
 # 大學部通訊專題實作
-[notion view](https://cottony-chartreuse-018.notion.site/e780093a104545f79cdbeee89d52b51d)
+
+[Notion View](https://cottony-chartreuse-018.notion.site/e780093a104545f79cdbeee89d52b51d)
 
 **Instructor**：溫朝凱 教授
 
