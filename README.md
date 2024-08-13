@@ -25,4 +25,3 @@
 📑 Li et al. - 2023 - Geo2SigMap High-Fidelity RF Signal Mapping Using Geographic Databases
 
 - [x]  brief performance
-Hell0 9029
